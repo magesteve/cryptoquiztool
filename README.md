@@ -1,7 +1,7 @@
 # cryptoquiztool
 
-CryptoQuizTool
-Command Line interface to the CryptoQuizKit library (for producing CryptoQuiz puzzles).
+CryptoQuizTool.
+Mac Command Line interface to the CryptoQuizKit library (for producing CryptoQuiz puzzles).
 
 Uses swift packages swift-argument-parser & CryptoQuizKit.
 
