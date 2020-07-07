@@ -5,6 +5,8 @@ Mac Command Line interface to the CryptoQuizKit library (for producing CryptoQui
 
 Uses swift packages swift-argument-parser & CryptoQuizKit.
 
+---
+
 USAGE: cryptoquiztool [--decrypt] [--key <key>] <phrase>
 
 ARGUMENTS:
